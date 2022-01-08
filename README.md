@@ -1,2 +1,2 @@
-# On-Device-ML-based-Crop-disease-identification
+# On-Device_ML_based_Crop-disease_identification
 Machine Learning
