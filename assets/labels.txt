@@ -1,0 +1,9 @@
+0 Tomato_Heathy_Plant
+1 Tomato_Lateblight
+2 Tomato_Earlyblight
+3 Tomato_LeafMold
+4 Tomato_Mosaic_Virus
+5 Tomato_Septorial_Leafspot
+6 Tomato_Spider_Mites
+7 Tomato_Target_Spot
+8 Tomato_Yellowleafcurl_Virus
