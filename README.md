@@ -1,6 +1,6 @@
-# croheal
+# Crop Disease Identifier
 
-A new Flutter project.
+On-device Machine Learning project.
 
 ## Getting Started
 
