@@ -105,7 +105,7 @@ class _HomePageState extends State<HomePage> {
                   fontWeight: FontWeight.bold,
                 )),
             const SizedBox(height: 50),
-            Column(
+            Column( 
               children: [
                 Container(
                   padding: const EdgeInsets.only(left: 10, right: 10),
