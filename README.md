@@ -4,10 +4,13 @@
 On-device Machine Learning Application that identifies 9 different Tomato diseases
 
 ## Visuals
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Nagarjunasagar/Crop-disease-Identification-using-On-Device-Machine-Learning/blob/Main_Branch/assets/images/screenshot_1.jpg) ![alt text](https://github.com/Nagarjunasagar/Crop-disease-Identification-using-On-Device-Machine-Learning/blob/Main_Branch/assets/images/screenshot_2.jpg)
 
-
+## Data Source
+ Dataset is from this github [repository](https://github.com/spMohanty/PlantVillage-Dataset)
+ 
 ## Installations
+
 ## Usage
 ## Authors and acknowledgment
 ## License
