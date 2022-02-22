@@ -1,12 +1,18 @@
 # Crop Disease Identifier
 
-On-device Machine Learning project.
+## Project Description
+On-device Machine Learning Application that identifies 9 different Tomato diseases
 
-## Contents
+## Visuals
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
+## Installations
+## Usage
+## Authors and acknowledgment
+## License
+## Project status
 
-A few resources to get you started this project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
