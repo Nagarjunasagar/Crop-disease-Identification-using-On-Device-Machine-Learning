@@ -20,4 +20,5 @@ Android Application that identifies 9 different Tomato diseases which works base
 ## Authors and acknowledgment
 ## License
 ## Project status
+On-going project
 
